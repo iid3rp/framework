@@ -1,4 +1,4 @@
-# iid3rp's libraries | Framework
+# derp :3 libraries | Framework
 
 iid3rp's personal game development framework with the 
 use of [LightWeight Java Game Library](https://lwjgl.org) version (~~2~~) **3!!**. It is currently 
